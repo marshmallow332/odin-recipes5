@@ -1,0 +1,74 @@
+.title {
+  color: pink;
+  font-family: "Brush Script MT";
+  font-weight: bold;
+  text-align: center;
+}
+
+.cheesecake-title {
+    color: pink;
+    font-family: "Brush Script MT";
+    font-weight: bold;
+    text-align: left;
+}
+
+.cheesecake-text .cheesecake-textt {
+    color: black;
+    font-family: Arial;
+    text-align: left;
+}
+
+.cheesecake-textt {
+    background-color: plum;
+}
+
+.title-two {
+    color: purple;
+    font-family: "Brush Script MT";
+    font-weight: bold;
+    text-align: center;
+}
+
+.pizza-title {
+    color: purple;
+    font-family: "Brush Script MT";
+    font-weight: bold;
+    text-align: left;
+}
+
+.pizza-text .pizza-textt {
+    color: black;
+    font-family: Arial;
+    text-align: left;
+}
+
+.pizza-textt {
+    background-color: rebeccapurple;
+}
+
+.title-three {
+    color:aqua;
+    font-family: "Brush Script MT";
+    font-weight: bold;
+    text-align: center;
+}
+
+.sushi-title {
+    color: aqua;
+    font-family: "Brush Script MT";
+    font-weight: bold;
+    text-align: left;
+}
+
+.sushi-text {
+    color: aquamarine;
+    font-family: "Arial";
+    text-align: left;
+}
+
+.sushi-textt {
+    background-color: royalblue;
+}
+
+
+
